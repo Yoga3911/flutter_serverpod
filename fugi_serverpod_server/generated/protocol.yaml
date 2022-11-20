@@ -1,0 +1,7 @@
+example:
+  - hello:
+users:
+  - getAll:
+  - insert:
+  - update:
+  - delete:
